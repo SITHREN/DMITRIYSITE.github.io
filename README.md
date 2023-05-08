@@ -1,1 +1,1 @@
-# DMITRIYSITE.github.io
+# DMITRIYSITE.gitub.io
